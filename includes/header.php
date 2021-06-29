@@ -70,14 +70,14 @@
 							<li>
 								<a href="#0">About</a>
 								<ul class="lab-ul">
-									<li><a href="team">Team Membar</a></li>
-									<li><a href="faq-page">Faq Page</a></li>
-									<li><a href="about">About</a></li>
+									<li><a href="team.php">Team Membar</a></li>
+									<li><a href="faq-page.php">Faq Page</a></li>
+									<li><a href="about.php">About</a></li>
 								</ul>
 						
 							
-							<li><a href="gallery-2">Gallery</a></li>
-							<li><a href="contact">Contact</a></li>
+							<li><a href="gallery.php">Gallery</a></li>
+							<li><a href="contact.php">Contact</a></li>
 						</ul>
 					</div>
 				</div>
@@ -149,15 +149,15 @@
 										<li>
 											<a href="#0">About</a>
 											<ul class="lab-ul">
-												<li><a href="team">Team Membar</a></li>
-												<li><a href="faq-page">Faq Page</a></li>
-												<li><a href="about">About Page</a></li>
+												<li><a href="team.php">Team Membar</a></li>
+												<li><a href="faq-page.php">Faq Page</a></li>
+												<li><a href="about.php">About Page</a></li>
 											</ul>
 										</li>
 										
 										
-										<li><a href="gallery">Gallery </a></li>
-										<li><a href="contact">Contact</a></li>
+										<li><a href="gallery.php">Gallery </a></li>
+										<li><a href="contact.php">Contact</a></li>
 									</ul>
 									<ul class="lab-ul search-cart d-none">
 										<li>
