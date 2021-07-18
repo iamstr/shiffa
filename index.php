@@ -6,16 +6,18 @@
   <div class="banner-slider">
     <div class="swiper-wrapper">
       <div class="swiper-slide">
-        <div class="banner-slider-part" style="background-image: url(assets/images/banner/bg-images/01.jpg);">
+        <div class="banner-slider-part" style="background-image: url(assets/images/shiffa/dug.jpeg);">
           <div class="overlay"></div>
           <div class="container">
             <div class="row flex-row-reverse justify-content-center align-items-center">
               <div class="col-12">
                 <div class="banner-content">
+<!--
                   <h1 class="banner-title"><B class="d-lg-block">Fresh Killed Poultry </B>
                     Chickens Specialty Game Meats
                     Eggs And More!!! </h1>
-                  <a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>
+-->
+                  <!--<a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>-->
                 </div>
               </div>
             </div>
@@ -23,16 +25,56 @@
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="banner-slider-part" style="background-image: url(assets/images/banner/bg-images/02.jpg);">
+        <div class="banner-slider-part" style="background-image: url(assets/images/shiffa/incubator.jpeg);">
           <div class="overlay"></div>
           <div class="container">
             <div class="row flex-row-reverse justify-content-center align-items-center">
               <div class="col-12">
                 <div class="banner-content">
+<!--
                   <h1 class="banner-title"><B class="d-lg-block">Fresh Killed Poultry </B>
                     Chickens Specialty Game Meats
                     Eggs And More!!! </h1>
-                  <a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>
+-->
+                  <!--<a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>  
+       <div class="swiper-slide">
+        <div class="banner-slider-part" style="background-image: url(assets/images/shiffa/gallery/chicken4.jpg);">
+          <div class="overlay"></div>
+          <div class="container">
+            <div class="row flex-row-reverse justify-content-center align-items-center">
+              <div class="col-12">
+                <div class="banner-content">
+<!--
+                  <h1 class="banner-title"><B class="d-lg-block">Fresh Killed Poultry </B>
+                    Chickens Specialty Game Meats
+                    Eggs And More!!! </h1>
+-->
+                  <!--<a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>-->
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>   
+        <div class="swiper-slide">
+        <div class="banner-slider-part" style="background-image: url(assets/images/shiffa/gallery/autumn-mott-rodeheaver-YLyxXawZm4w-unsplash-min2.jpg);">
+          <div class="overlay"></div>
+          <div class="container">
+            <div class="row flex-row-reverse justify-content-center align-items-center">
+              <div class="col-12">
+                <div class="banner-content">
+<!--
+                  <h1 class="banner-title"><B class="d-lg-block">Fresh Killed Poultry </B>
+                    Chickens Specialty Game Meats
+                    Eggs And More!!! </h1>
+-->
+                  <!--<a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>-->
                 </div>
               </div>
             </div>
@@ -40,16 +82,20 @@
         </div>
       </div>
       <div class="swiper-slide">
-        <div class="banner-slider-part" style="background-image: url(assets/images/banner/bg-images/01.jpg);">
+        <div class="banner-slider-part" style="background-image: url(assets/images/shiffa/team.jpeg);">
           <div class="overlay"></div>
           <div class="container">
             <div class="row flex-row-reverse justify-content-center align-items-center">
               <div class="col-12">
                 <div class="banner-content">
-                  <h1 class="banner-title"><B class="d-lg-block">Fresh Killed Poultry </B>
-                    Chickens Specialty Game Meats
-                    Eggs And More!!! </h1>
-                  <a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>
+<!--
+<h1 class="banner-title">
+  <B class="d-lg-block">Fresh Killed Poultry </B>
+  Chickens Specialty Game Meats Eggs And More!!!{" "}
+</h1>;
+
+-->
+                  <!--<a href="#" class="lab-btn"><span>DISCOVER NOW</span></a>-->
                 </div>
               </div>
             </div>
@@ -65,36 +111,36 @@
 <!-- about section start here -->
 <section class="about-section relative padding-tb">
   <div class="container">
-    <div class="row align-items-center mb-15">
+    <div class="row align-items-start mb-15">
       <div class="col-lg-6 col-12">
         <div class="about-thumb">
-          <img src="assets/images/about/01.png" alt="about-thumb">
+          <img src="assets/images/shiffa/team.jpeg" alt="about-thumb" class="rounded shadow-lg">
         </div>
       </div>
       <div class="col-lg-6 col-12">
         <div class="about-wrapper p-0">
           <div class="about-title">
-            <h2><span class="d-lg-block"> Welcome to Our Poultry And </span>Egg Farm.</h2>
-            <p>Continually productize compelling quality for packed with Elated productize compelling
-              quality for packed with all Elated ThemSetting up to website and creating pages.</p>
+            <h2><span class="d-lg-block"> Welcome to Shiffa Chicks,  </span>Eggs and Feeds.</h2>
+            <p>Shiffa Enterprises Limited is a private company registered in Kenya in 2014 and has business interest extending to Chwele slaughter house. We provide high quality indigenous Chicken this not to be confused with broilers. We also sell packed chicken meat,fertilized and unfertilized indigenous eggs, feeds And chicks.</p>
           </div>
           <div class="about-content">
             <ul class="lab-ul list-group">
-              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>We are
-                providing different
-                services</li>
-              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>We are one
-                of leading company
+             
+              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>Value add in chicken for local and export market.</li>
+                
+                
+              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>Skills transfer.
               </li>
-              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>Profitability is the primary
-                goal of all business</li>
-              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>Learn how
-                to grow your Business
+              
+              
+              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>
+            Employment. </li>
+              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>
+               Promote Investment in Bungoma County.
               </li>
-              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>Professional solutions for your
-                business</li>
+              <li class="list-group-item py-1 px-0 border-none"><i class="icofont-tick-boxed mr-2 color-theme"></i>Poverty Eradication.</li>
             </ul>
-            <a href="#" class="lab-btn mt-4"><span>Read More</span></a>
+<!--            <a href="#" class="lab-btn mt-4"><span>Read More</span></a>-->
           </div>
         </div>
       </div>
@@ -110,8 +156,7 @@
       <div class="col-12">
         <div class="section-header">
           <h3>Poultry Farm Products</h3>
-          <p>Conveniently customize proactive web services for leveraged
-            interfaces without Globally </p>
+          <p>Below are the products we have </p>
         </div>
       </div>
       <div class="col-12">
@@ -129,7 +174,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/01.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/04.png" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -139,7 +184,38 @@
                     <span><a href="#"><i class="far fa-star"></i></a></span>
                   </div>
                   <a href="#">
-                    <h6 class="card-title">LIght Brown Eggs</h6>
+                    <h6 class="card-title">indigenous chicken.
+</h6>
+                  </a>
+                  <h6 class="product-price d-none"> <span class="d-price">$29.99</span> <del>$49.99</del>
+                  </h6>
+                </div>
+              </div>
+            </div>
+            <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
+              <div class="card mb-4 text-center bg-ash border-none relative">
+                <div class="addcart-overlay-change d-none">
+                  <div class="addcart-content">
+                    <div class="addcart-icon">
+                      <a href="#"><i class="far fa-heart"></i></a>
+                      <a href="#"><i class="fas fa-sync-alt"></i></a>
+                      <a href="assets/images/shiffa/gallery/gallery/02.png" data-rel="lightcase"><i class="fas fa-search"></i></a>
+                    </div>
+                    <a href="#" class="lab-btn d-inline-b">Add to cart</a>
+                  </div>
+                </div>
+                <img src="assets/images/shiffa/gallery/gallery/05.png" class="card-img-top mb-2" alt="product">
+                <div class="card-body">
+                  <div class="rating mb-2">
+                    <span><a href="#"><i class="far fa-star"></i></a></span>
+                    <span><a href="#"><i class="far fa-star"></i></a></span>
+                    <span><a href="#"><i class="far fa-star"></i></a></span>
+                    <span><a href="#"><i class="far fa-star"></i></a></span>
+                    <span><a href="#"><i class="far fa-star"></i></a></span>
+                  </div>
+                  <a href="#">
+                    <h6 class="card-title">packed chicken meat fertilized eggs
+</h6>
                   </a>
                   <h6 class="product-price d-none"> <span class="d-price">$29.99</span> <del>$49.99</del>
                   </h6>
@@ -158,7 +234,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/02.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/01.png" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -168,7 +244,8 @@
                     <span><a href="#"><i class="far fa-star"></i></a></span>
                   </div>
                   <a href="#">
-                    <h6 class="card-title">Little Chicken Broiler</h6>
+                    <h6 class="card-title">unfertilized indegenous eggs,
+</h6>
                   </a>
                   <h6 class="product-price d-none"> <span class="d-price">$29.99</span> <del>$49.99</del>
                   </h6>
@@ -187,7 +264,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/03.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/07.JPG" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -197,7 +274,7 @@
                     <span><a href="#"><i class="far fa-star"></i></a></span>
                   </div>
                   <a href="#">
-                    <h6 class="card-title">White Brown Eggs</h6>
+                    <h6 class="card-title">Feeds And chicks</h6>
                   </a>
                   <h6 class="product-price d-none"> <span class="d-price">$29.99</span> <del>$49.99</del>
                   </h6>
@@ -216,36 +293,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/04.png" class="card-img-top mb-2" alt="product">
-                <div class="card-body">
-                  <div class="rating mb-2">
-                    <span><a href="#"><i class="far fa-star"></i></a></span>
-                    <span><a href="#"><i class="far fa-star"></i></a></span>
-                    <span><a href="#"><i class="far fa-star"></i></a></span>
-                    <span><a href="#"><i class="far fa-star"></i></a></span>
-                    <span><a href="#"><i class="far fa-star"></i></a></span>
-                  </div>
-                  <a href="#">
-                    <h6 class="card-title">Chicken Broiler</h6>
-                  </a>
-                  <h6 class="product-price d-none"> <span class="d-price">$29.99</span> <del>$49.99</del>
-                  </h6>
-                </div>
-              </div>
-            </div>
-            <div class="col-xl-3 col-lg-4 col-sm-6 col-12">
-              <div class="card mb-4 text-center bg-ash border-none relative">
-                <div class="addcart-overlay-change d-none">
-                  <div class="addcart-content">
-                    <div class="addcart-icon">
-                      <a href="#"><i class="far fa-heart"></i></a>
-                      <a href="#"><i class="fas fa-sync-alt"></i></a>
-                      <a href="assets/images/product/01.png" data-rel="lightcase"><i class="fas fa-search"></i></a>
-                    </div>
-                    <a href="#" class="lab-btn d-inline-b">Add to cart</a>
-                  </div>
-                </div>
-                <img src="assets/images/products/product/05.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/05.png" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -274,7 +322,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/06.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/06.png" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -303,7 +351,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/03.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/03.png" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -332,7 +380,7 @@
                     <a href="#" class="lab-btn d-inline-b">Add to cart</a>
                   </div>
                 </div>
-                <img src="assets/images/products/product/01.png" class="card-img-top mb-2" alt="product">
+                <img src="assets/images/shiffa/gallery/gallery/01.png" class="card-img-top mb-2" alt="product">
                 <div class="card-body">
                   <div class="rating mb-2">
                     <span><a href="#"><i class="far fa-star"></i></a></span>
@@ -360,7 +408,7 @@
 <!-- product category section ending here -->
 
 <!-- service section start here -->
-<section class="service-section padding-tb">
+<section class="service-section padding-tb d-none">
   <div class="container">
     <div class="row">
       <div class="col-12">
@@ -511,7 +559,7 @@
     <div class="row align-items-center">
       <div class="col-lg-6 col-12">
         <div class="lab-item">
-          <div class="lab-thumb"><img src="assets/images/about/02.png" alt="chicken-life-cycle"></div>
+          <div class="lab-thumb"><img src="assets/images/shiffa/gallery/autumn-mott-rodeheaver-YLyxXawZm4w-unsplash-min2.jpg" alt="chicken-life-cycle" class="rounded shadow-lg"></div>
         </div>
       </div>
       <div class="col-lg-6 col-12">
@@ -591,35 +639,35 @@
         </div>
       </div>
       <div class="col-12">
-        <div class="gallery-content">
+        <div class="gallery-content" id="gallery">
           <div class="gallery-grid text-center">
-            <a href="assets/images/gallery/01.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/01.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/01.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/01.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/02.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/02.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/02.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/02.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/03.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/03.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/03.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/03.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/04.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/04.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/04.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/04.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/05.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/05.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/05.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/05.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/06.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/06.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/06.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/06.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/07.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/07.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/07.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/07.jpg" alt="gallery-image" class="rounded">
             </a>
-            <a href="assets/images/gallery/08.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image">
-              <img src="assets/images/gallery/08.jpg" alt="gallery-image">
+            <a href="assets/images/shiffa/gallery/shiffa/08.jpg" data-rel="lightcase:myCollection:slideshow" class="grid-image" class="rounded">
+              <img src="assets/images/shiffa/gallery/shiffa/08.jpg" alt="gallery-image" class="rounded">
             </a>
           </div>
-          <div class="gallery-btn text-center mt-5">
-            <a href="gallery.html" class="lab-btn"><span>Load Gallery</span></a>
+          <div class="gallery-btn text-center mt-5 d-none">
+            <a href="gallery" class="lab-btn"><span>Load Gallery</span></a>
           </div>
         </div>
       </div>
@@ -981,7 +1029,7 @@
         <div class="lab-item">
           <div class="lab-inner">
             <div class="lab-thumb">
-              <img src="assets/images/feature/01.png" alt="Feature Image">
+              <img src="assets/images/shiffa/gallery/icons/01.png" alt="Feature Image">
             </div>
             <div class="lab-content">
               <h6>Products Range</h6>
@@ -995,7 +1043,7 @@
         <div class="lab-item">
           <div class="lab-inner">
             <div class="lab-thumb">
-              <img src="assets/images/feature/02.png" alt="Feature image">
+              <img src="assets/images/shiffa/gallery/icons/02.png" alt="Feature image">
             </div>
             <div class="lab-content">
               <h6>Quality Matters</h6>
@@ -1009,7 +1057,7 @@
         <div class="lab-item">
           <div class="lab-inner">
             <div class="lab-thumb">
-              <img src="assets/images/feature/03.png" alt="Feature image">
+              <img src="assets/images/shiffa/gallery/icons/03.png" alt="Feature image">
             </div>
             <div class="lab-content">
               <h6>Free Shipping</h6>
@@ -1023,7 +1071,7 @@
         <div class="lab-item">
           <div class="lab-inner">
             <div class="lab-thumb">
-              <img src="assets/images/feature/04.png" alt="Feature image">
+              <img src="assets/images/shiffa/gallery/icons/04.png" alt="Feature image">
             </div>
             <div class="lab-content">
               <h6>Customer Satisfaction</h6>

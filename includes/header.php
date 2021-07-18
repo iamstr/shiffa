@@ -7,7 +7,7 @@
 
 		<!-- google fonts -->
 		<link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i&display=swap" rel="stylesheet">
-		<link rel="shortcut icon" type="image/x-icon" href="assets/images/x-icon/01.png">
+		<link rel="shortcut icon" type="image/x-icon" href="assets/images/shiffa/favicon/favicon.ico">
 
 		<link rel="stylesheet" href="assets/css/animate.css">
 		<link rel="stylesheet" href="assets/css/bootstrap.min.css">
@@ -16,6 +16,8 @@
 		<link rel="stylesheet" href="assets/css/lightcase.css">
 		<link rel="stylesheet" href="assets/css/swiper.min.css">
 		<link rel="stylesheet" href="assets/css/style.css">
+		<link rel="stylesheet" href="assets/css/custom.css">
+	
 	</head>
 
 	<body>
@@ -50,7 +52,7 @@
 		<div class="mobile-menu transparent-header">
 			<nav class="mobile-header">
 				<div class="header-logo">
-					<a href="index"><img src="assets/images/logo.jpeg" style="width: 100px;" alt="logo" ></a>
+					<a href="index"><img src="assets/images/shiffa/favicon/SHIFFA-min.png" style="width: 100px;" alt="logo" ></a>
 				</div>
 				<div class="header-bar">
 					<span></span>
@@ -92,7 +94,7 @@
 					<div class="row justify-content-center align-items-center">
 						<div class="col-lg-5 col-12">
 							<div class="logo py-2">
-								<a href="index"><img src="assets/images/logo.jpeg" style="height: 40px;" alt="logo"></a>
+								<a href="index"><img src="assets/images/shiffa/favicon/SHIFFA-min.png" style="height: 40px;" alt="logo"></a>
 							</div>
 						</div>
 						<div class="col-lg-7 col-12">
@@ -100,29 +102,29 @@
 								<ul class="lab-ul d-flex flex-wrap justify-content-end">
 									<li class="d-flex flex-wrap align-items-center">
 										<div class="ht-add-thumb mr-2">
-											<img src="assets/images/header/01.png" alt="address">
+											<img src="assets/images/header/01.png" alt="address" style="width:24px;">
 										</div>
 										<div class="ht-add-content">
 <!--											<span>72AH, Victoria,</span>-->
-											<span class="d-block text-bold">Bungoma</span>
+											<span class="d-block ">Bungoma</span>
 										</div>
 									</li>
 									<li class="d-flex flex-wrap align-items-center">
 										<div class="ht-add-thumb mr-2">
-											<img src="assets/images/header/02.png" alt="email">
+											<img src="assets/images/header/02.png" alt="email" style="width:24px;">
 										</div>
 										<div class="ht-add-content">
-											<span>Send Mail </span>
-											<span class="d-block text-bold">info.@shiffachicks.com</span>
+<!--											<span>Send Mail </span>-->
+											<span class="d-block ">info.@shiffachicks.com</span>
 										</div>
 									</li>
 									<li class="d-flex flex-wrap align-items-center">
 										<div class="ht-add-thumb mr-2">
-											<img src="assets/images/header/03.png" alt="call">
+											<img src="assets/images/header/03.png" alt="call" style="width:24px;">
 										</div>
 										<div class="ht-add-content">
-											<span>Make Call </span>
-											<span class="d-block text-bold">+254-111-305-108</span>
+<!--											<span>Make Call </span>-->
+											<span class="d-block ">+254-111-305-108</span>
 										</div>
 									</li>
 								</ul>
@@ -138,7 +140,7 @@
 							<div class="main-area w-100">
 								<div class="main-menu d-flex flex-wrap align-items-center justify-content-between w-100">
 									<div class="logo">
-										<a href="index"><img src="assets/images/logo.jpeg" height="50" alt="logo"  height="100" width="200"></a>
+										<a href="index"><img src="assets/images/shiffa/favicon/SHIFFA-min.png" alt="logo"   style="height: 40px;"></a>
 									</div>
 									<ul class="lab-ul">
 										<li class="active">
@@ -149,14 +151,14 @@
 										<li>
 											<a href="#0">About</a>
 											<ul class="lab-ul">
-												<li><a href="team.php">Team Membar</a></li>
-												<li><a href="faq-page.php">Faq Page</a></li>
-												<li><a href="about.php">About Page</a></li>
+<!--												<li><a href="team.php">Team Membar</a></li>-->
+												<li><a href="news.php">News</a></li>
+<!--												<li><a href="about.php">About Page</a></li>-->
 											</ul>
 										</li>
 										
 										
-										<li><a href="gallery.php">Gallery </a></li>
+										<li><a href="index.php#gallery" id="galleryUrl">Gallery </a></li>
 										<li><a href="contact.php">Contact</a></li>
 									</ul>
 									<ul class="lab-ul search-cart d-none">

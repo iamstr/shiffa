@@ -9,7 +9,7 @@
           <div class="col-xl-4 col-md-6">
             <div class="post-item">
               <div class="footer-logo">
-                <img src="assets/images/logo.jpeg" height="50" alt="footer-logo">
+                <img src="assets/images/logo.png" height="50" alt="footer-logo">
               </div>
               <p>Conveniently customizec web services aggregate frictionle internet withouevs Conveniently customizec. </p>
               <p>Enthusiastically scale synergistic technologies for leveraged with technology quickly.</p>
@@ -114,7 +114,7 @@
     <div class="footer-bottom">
       <div class="container">
         <div class="section-wrapper">
-          <p class="text-center">&copy; 2020 <a href="index.html">Shiffa</a>.All Rights Reserved By <a href="https://themeforest.net/user/labartisan" target="_blank" class="d-none">LabArtisan</a></p>
+          <p class="text-center">&copy; 2021 <a href="index.html">Shiffa</a>.All Rights Reserved By <a href="https://themeforest.net/user/labartisan" target="_blank" class="">Shadul Solutions</a></p>
         </div>
       </div>
     </div>
@@ -136,6 +136,17 @@
   <script src="assets/js/isotope.pkgd.min.js"></script>
   <script src="assets/js/lightcase.js"></script>
   <script src="assets/js/functions.js"></script>
+  
+  	<script>
+          if(!window.location.href.includes("index")){
+          document.querySelector("#galleryUrl").href="index.php#gallery"
+      }else{
+          document.querySelector("#galleryUrl").href="#gallery"
+        
+      }
+      
+      </script>
+  
 </body>
 
 </html>

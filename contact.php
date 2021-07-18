@@ -59,9 +59,8 @@ Bungoma Town.</p>
 						<div class="col-lg-6 col-12">
 							<div class="location-map">
 								<div id="map">
-									<iframe
-										src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2171.6233168549234!2d90.38618271679425!3d23.739514243490834!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3755b85c71927841%3A0xde102c300beb3f0c!2sWebCode%20Institute!5e0!3m2!1sen!2sbd!4v1605551468163!5m2!1sen!2sbd"
-										allowfullscreen=""></iframe>
+								
+										<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15958.44451406315!2d34.5589104!3d0.5839145!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x165242b69142a84!2sshiffa%20chicks!5e0!3m2!1sen!2ske!4v1625407228768!5m2!1sen!2ske"  allowfullscreen="" loading="lazy"></iframe>
 								</div>
 							</div>
 						</div>

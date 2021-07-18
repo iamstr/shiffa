@@ -1,0 +1,26 @@
+
+
+.header-section .header-area.menu-fixed,.primary-menu,.main-area.w-100,.main-menu.d-flex.flex-wrap.align-items-center.justify-content-between.w-100,.logo,.lab-ul,.menu-item-has-children {
+    height: 55px;
+}
+
+.logo{
+  
+  padding: .5rem 0;
+}
+
+.banner-slider-part{
+  
+  height: 650px;
+}
+
+.overlay{
+  
+  background: transparent;
+}
+
+
+html{
+  
+  scroll-behavior: smooth;
+}
